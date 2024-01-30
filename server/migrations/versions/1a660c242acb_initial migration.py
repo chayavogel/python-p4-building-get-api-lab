@@ -1,4 +1,4 @@
-"""empty message
+"""initial migration
 
 Revision ID: 1a660c242acb
 Revises: 
